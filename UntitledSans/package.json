@@ -1,0 +1,9 @@
+{
+  "name": "Untitled woff2, and ttf fonts",
+  "version": "1.0.0",
+  "description": "Untitled Font",
+  "files": [
+    "*"
+  ],
+  "license": "ISC"
+}
